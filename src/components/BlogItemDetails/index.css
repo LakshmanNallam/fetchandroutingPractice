@@ -1,0 +1,40 @@
+.lowerConn {
+  display: flex;
+  flex-direction: column;
+}
+.imgConn {
+  width: 5%;
+}
+.imgaG {
+  width: 100%;
+  border-radius: 20px;
+}
+.rowConn {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+}
+.blogItemDetailss {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+.irritation {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ImGECon {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imgPedh {
+  width: 80%;
+}

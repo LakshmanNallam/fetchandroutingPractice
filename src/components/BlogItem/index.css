@@ -1,0 +1,43 @@
+/* Write your CSS code here */
+.BlogItem {
+  text-decoration: none;
+  color: black;
+  width: 90%;
+  display: flex;
+  border-style: solid;
+  width: 90%;
+  display: flex;
+  margin-bottom: 18px;
+  padding: 13px;
+  border-radius: 9px;
+}
+
+.imgCon {
+  width: 40%;
+}
+.img {
+  width: 100%;
+}
+
+.rightCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 10px;
+  width: 60%;
+}
+.h1Title {
+  font-size: 24px;
+}
+.rowCon {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+.avatarrCon {
+  width: 5%;
+}
+.avatar {
+  width: 100%;
+  border-radius: 33px;
+}
